@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/jaym9000/Desktop/Programming/unb-projects/output-text'
+gcc -g -Wall -Wshadow -std=c99 -c writeFile.c
+gcc -o writeFile writeFile.o -g -Wall -Wshadow -std=c99
+make: Leaving directory `/Users/jaym9000/Desktop/Programming/unb-projects/output-text'
+ 
