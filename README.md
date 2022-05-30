@@ -7,7 +7,6 @@
   There is a file called 'Makefile' which will take care of the compiling. 
   To activate this file you need to run the following in your terminal: 
   
-  make -f Makefile \
   make all
   
   Now to run the c files just type './writeFile' for writeFile.c and './convertToHex' for convertToHex.c
