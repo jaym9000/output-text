@@ -3,8 +3,7 @@
   One of the files had us take input from user and write the text to a text file.\
   The other file had us take input from the user (only 16 bit input) and return the integer that correlates to it.
   
-  ****To run the program:\
-  
+  **To run the program:**\
   There is a file called 'Makefile' which will take care of the compiling. 
   To activate this file you need to run the following in your terminal: 
   
